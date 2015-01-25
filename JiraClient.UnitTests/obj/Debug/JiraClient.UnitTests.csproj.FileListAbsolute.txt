@@ -1,0 +1,9 @@
+C:\Visual Studio Projects\Custom\JiraClient\JiraClient.UnitTests\bin\Debug\JiraClient.UnitTests.dll
+C:\Visual Studio Projects\Custom\JiraClient\JiraClient.UnitTests\bin\Debug\JiraClient.UnitTests.pdb
+C:\Visual Studio Projects\Custom\JiraClient\JiraClient.UnitTests\bin\Debug\Domain.dll
+C:\Visual Studio Projects\Custom\JiraClient\JiraClient.UnitTests\bin\Debug\nunit.framework.dll
+C:\Visual Studio Projects\Custom\JiraClient\JiraClient.UnitTests\bin\Debug\Domain.pdb
+C:\Visual Studio Projects\Custom\JiraClient\JiraClient.UnitTests\bin\Debug\nunit.framework.xml
+C:\Visual Studio Projects\Custom\JiraClient\JiraClient.UnitTests\obj\Debug\JiraClient.UnitTests.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\Custom\JiraClient\JiraClient.UnitTests\obj\Debug\JiraClient.UnitTests.dll
+C:\Visual Studio Projects\Custom\JiraClient\JiraClient.UnitTests\obj\Debug\JiraClient.UnitTests.pdb
